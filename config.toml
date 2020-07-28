@@ -10,6 +10,11 @@ copyright = "Copyright © 2019, Dirk Olbrich, all rights reserved."
 pygmentsCodefences = true
 pygmentsStyle = "vs"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      katex = true
+
 [params]
     name = "Hugo Tailwindcss Starter"
     description = "A simple bootstraped theme for Hugo, build with Tailwindcss."
