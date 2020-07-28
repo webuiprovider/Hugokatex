@@ -16,24 +16,6 @@ $$\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }$$
 
 
 
-$$
-% This works as expected in KaTeX
-\begin{aligned}
-a &= 1 \\
-b &= 2
-\end{aligned}
-$$
-
-
-
-
-$$
-% Extra backslashes used to make newline with MathJax
-\begin{aligned}
-a &= 1 \\\\
-b &= 2
-\end{aligned}
-$$
 
 $$
 % \newline with MathJax
